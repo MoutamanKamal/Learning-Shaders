@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MoutamanKamal/Learning-Shaders/issues"
   },
-  "homepage": "https://github.com/MoutamanKamal/Learning-Shaders#readme"
+  "homepage": "https://github.com/MoutamanKamal/Learning-Shaders#readme",
+  "dependencies": {
+    "glslCanvas": "^0.1.7"
+  }
 }
